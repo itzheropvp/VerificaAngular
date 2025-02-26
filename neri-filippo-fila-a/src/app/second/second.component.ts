@@ -1,8 +1,9 @@
 import { Component } from '@angular/core';
+import { ThirdComponent } from '../third/third.component';
 
 @Component({
   selector: 'app-second',
-  imports: [],
+  imports: [ThirdComponent],
   templateUrl: './second.component.html',
   styleUrl: './second.component.css'
 })
