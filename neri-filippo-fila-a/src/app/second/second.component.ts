@@ -8,5 +8,5 @@ import { ThirdComponent } from '../third/third.component';
   styleUrl: './second.component.css'
 })
 export class SecondComponent {
-
+  burzum = "secondo";
 }

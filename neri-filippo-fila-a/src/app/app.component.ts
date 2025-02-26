@@ -9,5 +9,5 @@ import { SecondComponent } from './second/second.component';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'neri-filippo-fila-a';
+  burzum = "app";
 }
